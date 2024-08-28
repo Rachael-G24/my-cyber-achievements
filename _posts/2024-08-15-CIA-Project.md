@@ -89,7 +89,7 @@ My Cybersecurity boot camp through The Ohio State University provided the follow
      - An explanation of the Acceptable Use Policy that everyone will need to sign.
      - Contact information for IT specialists who may assist employees with implementing any of the security controls mentioned during the training.
  
-  > 8. After you’ve run your training, how will you measure its effectiveness?
+> 8. After you’ve run your training, how will you measure its effectiveness?
 
   👩‍🦰
 * Quantitative:
