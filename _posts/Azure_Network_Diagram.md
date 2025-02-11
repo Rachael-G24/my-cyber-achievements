@@ -20,3 +20,6 @@ Below is an image of the network map I created using draw.io. The network map wa
 
 The network map is a demonstration of all I learned about cloud computing and the networking principles I applied to the cloud environment. I still have these VMs up and running and continue to practice my knowledge and skills on MS Azure. 
 
+---
+
+![Rachael Griggs_Cloud Security drawio](https://github.com/user-attachments/assets/35a44727-47ba-4171-981e-bef12e4eb6a4)
