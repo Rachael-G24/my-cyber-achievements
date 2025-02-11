@@ -1,6 +1,8 @@
+---
 # Network Diagram
 ## MS Azure Cloud Environment Setup
 ### September 30, 2024
+---
 
 One of the learning modules in my cybersecurity bootcamp focused on building, designing, and securing my own virtual network using MS Asure. I learned how to create and host three virtual machines. As a cohort, my classmates and I learned to include an Ansible jump box and Docker containers. 
 
